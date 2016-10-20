@@ -11,7 +11,7 @@ public class User {
 	private String 	bemerkung;
 	private Date	zeitpunkt;
 	
-	
+	//LETS SEE WHAT WILL HAPPEN TODAY!!
 	public String getUsername() {
 		return username;
 	}
